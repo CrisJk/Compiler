@@ -1,0 +1,15 @@
+
+sub abc (d as integer,c as integer)
+begin
+   var x,y,z as integer;,
+   x=x+(y*x)/z-x;
+if x > z and y>z or x>y then x=y; else if x > z and y>z or x>y then  x=y;  
+
+end
+end sub
+
+sub ac(d as integer,c as integer)
+call abc(d,c);
+
+end sub
+

@@ -1,0 +1,14 @@
+
+sub abc (d as integer,c as integer)
+begin
+   var x,y,z as integer;,
+if x > z and y>z then x=y;
+
+end
+end sub
+
+sub ac(d as integer,c as integer)
+call abc(d,c);
+
+end sub
+

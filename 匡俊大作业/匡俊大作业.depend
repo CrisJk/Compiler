@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1435505576 source:e:\编译原理\匡俊大作业\main.cpp
+	"data.h"
+
+1435512826 e:\编译原理\匡俊大作业\data.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<set>
+	<algorithm>
+	<string>
+	<cstring>
+
+1435580456 source:e:\编译原理\匡俊大作业\词法分析.cpp
+	"data.h"
+
+1435660762 source:e:\编译原理\匡俊大作业\语法分析.cpp
+	"data.h"
+
+1435580456 source:e:\编译原理\131310120匡俊大作业\匡俊大作业\词法分析.cpp
+	"data.h"
+
+1435512826 e:\编译原理\131310120匡俊大作业\匡俊大作业\data.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<set>
+	<algorithm>
+	<string>
+	<cstring>
+
+1435667741 source:e:\编译原理\131310120匡俊大作业\匡俊大作业\语法分析.cpp
+	"data.h"
+
+1435664037 source:e:\编译原理\131310120匡俊大作业\匡俊大作业\main.cpp
+	"data.h"
+
+1435664037 source:e:\编译原理\131310120匡俊综合实验\匡俊大作业\main.cpp
+	"data.h"
+
+1435512826 e:\编译原理\131310120匡俊综合实验\匡俊大作业\data.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<set>
+	<algorithm>
+	<string>
+	<cstring>
+
+1435580456 source:e:\编译原理\131310120匡俊综合实验\匡俊大作业\词法分析.cpp
+	"data.h"
+
+1435668614 source:e:\编译原理\131310120匡俊综合实验\匡俊大作业\语法分析.cpp
+	"data.h"
+
